@@ -1,0 +1,16 @@
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\bin\Debug\net7.0-windows\lab1AMO.exe
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\bin\Debug\net7.0-windows\lab1AMO.deps.json
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\bin\Debug\net7.0-windows\lab1AMO.runtimeconfig.json
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\bin\Debug\net7.0-windows\lab1AMO.dll
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\bin\Debug\net7.0-windows\lab1AMO.pdb
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.Form1.resources
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.csproj.GenerateResource.cache
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.AssemblyInfo.cs
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.dll
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\refint\lab1AMO.dll
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.pdb
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\lab1AMO.genruntimeconfig.cache
+C:\Users\olegs\source\repos\lab1AMO\lab1AMO\obj\Debug\net7.0-windows\ref\lab1AMO.dll
